@@ -1,0 +1,1 @@
+# Madame-Sudo.LinuxCompatibility
